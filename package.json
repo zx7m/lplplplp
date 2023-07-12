@@ -21,7 +21,7 @@
   ],
   "author": "LENTTOBS",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "@whiskeysockets/baileys": "^6.2.1",
     "@adiwajshing/baileys": "^5.0.0",
     "@saipulanuar/jadianime-ts": "^2.0.0",
