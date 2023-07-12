@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node --max_old_space_size=8192 index.js",
+    "start": "npm start",
     "start2": "pm2 start 'node index.js' --name zel --exp-backoff-restart-delay=100 && pm2 logs zel"
   },
   "keywords": [
